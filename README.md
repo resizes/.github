@@ -1,0 +1,2 @@
+# .github
+Resizes GitHub configuration
