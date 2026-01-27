@@ -1,110 +1,130 @@
-#  [Resizes](https://resiz.es) · [Dash](https://dash.resiz.es) Developer Platform
+# Resizes · Developer Platform & Cloud Orchestration
 
-> ⚡ **Ship at the speed of light** — a self-service developer platform to help teams deploy faster.
+**Resizes** is a technology platform that centralises and orchestrates all infrastructure and its critical components: applications, AI agents, APIs, databases, MCPs, and any essential part of the technology stack.
 
----
+It is not just another tool.
+Resizes is the place where everything is managed, deployed, and scaled, without the need to constantly switch between providers, consoles, scripts, and environments.
 
-## 🤔 What is Dash?
-
-Dash by **Resizes** is a developer-first, self-service platform that streamlines cloud infrastructure and application deployment. Built for dev and engineering teams, it provides:
-
-- 🔐 **GitHub Authentication** for seamless login and integration
--  **Automated Deployments** with minimal setup
-- 📊 **Centralized Resource Management** to monitor and manage all cloud assets
-- ⚙️ **Self-Service Workflows** to empower teams with independence
-
-> **💡 Why Dash?**  
-> Reduce operational complexity, deliver in minutes rather than days, and enjoy a developer-friendly, intuitive UI.
+Our goal is to eliminate the friction between having an idea and bringing it to production, allowing teams to focus on building products and businesses, not fighting with infrastructure.
 
 ---
 
-## ✨ Features & Workflow
+## What is Resizes?
 
-### 1.  **Quick Start with GitHub**
-- Sign up using GitHub credentials for secure, integrated access
-- Grant repo permissions to connect codebases directly
+Resizes centralises the entire operation of the technology stack on a single platform:
 
-### 2. 🏗️ **Organize with Spaces**
-- Create **Spaces** to structure projects, teams, or environments for collaborative deployments
+* Applications (frontend, backend, services)
+* Cloud infrastructure
+* Databases
+* APIs and internal services
+* AI agents and automations
+* Platform components and internal systems
 
-### 3. 📱 **Applications at a Glance**
-- Connect each **Application** to a GitHub repo (frontend, backend, any runnable code)
-- Manage and monitor through:
-  - 📈 Deployment status and history
-  - 🔄 Manual or auto-deploy options
-  - 🌐 Live app access, logs, variables, and domains
-  - ⚡ Autodeploy on GitHub commits and sustainability metrics
+Unlike point solutions, Resizes acts as the **orchestration layer** where everything connects, deploys, and scales coherently.
 
-### 4. 📚 **Comprehensive Docs**
-- Explore guides on live [docs](https://docs.resiz.es) about **Plans & Billing**, **Tutorials**, **Troubleshooting**, **Release Notes**, and **FAQs**
+This allows you to:
 
----
+* Drastically reduce operational complexity
+* Increase delivery speed
+* Gain real visibility into costs, resources, and performance
+* Eliminate technical bottlenecks that slow down growth
 
-## 🌟 Real-World Impact
+The platform absorbs the complexity of operating a modern stack, freeing teams to focus on what really matters: building and improving what is essential to the business.
 
-### 🌱 Green Energy: Be Energy Part S.L (SotySolar)
-By partnering with Resizes, SotySolar modernized its infrastructure and achieved remarkable improvements:
+Resizes eliminates friction between idea and execution.
+No surprises on the bill.
+No artificial limits that block growth.
+No dependencies between multiple disconnected tools.
 
-- ⚡ **75% faster deployments** (2+ hours saved per cycle)
-- 💰 **30% cost reduction**
-- 🏗️ **60% quicker builds** via optimized containerization
-- 🛡️ **99.9% uptime** with self-healing infrastructure
-- 🌍 **40% reduced carbon footprint**
-- 📈 **3× increase in deployment frequency**
+It is the technology solution that defines the speed at which your company can execute and the security with which it can scale.
 
 ---
 
-##  Thought Leadership
+## Company Overview
 
-- ** AI Coding Ethos**
-  Resizes embraces a balanced approach: leverage AI for productivity while keeping developers in control for critical thinking, architecture, and reliability.
+* **Website:** [https://resiz.es](https://resiz.es)
+* **Phone:** +34 615 384 513
+* **Industry:** Software Development
+* **Company size:** 11–50 employees (12 associated members)
+* **Headquarters:** Gijón, Principality of Asturias, Spain
+* **Founded:** 2024
 
-- **🏗️ Platform Engineering & IDPs**
-  Resizes champions Internal Developer Platforms to streamline development, boost collaboration, enhance security, and deliver cost-efficient scalability.
+### Specialties
 
-- ** Giving Back to the Community**
-  Most repositories are live—and open for contributions. Dive in, improve, and help build a stronger community knowledge base.
-
----
-
-##  Why Contribute?
-
-- 📖 **Improve onboarding** with better guides on Spaces, Applications, and deployment flows
-- 🎓 **Build tutorials** for common stacks (e.g., React, Node, Python) to help users deploy faster
-- 💡 **Share best practices** around sustainability metrics, DevOps patterns, or cost optimization
--  **Expand community** by writing about Platform Engineering, internal tooling, or green infrastructure
+DevOps, Platform Engineering, AWS, Cloud, GCP, Kubernetes, Infrastructure as Code, Terraform, FinOps, GitOps, Observability, Monitoring, Logging, Security, DevEx, CI/CD y Systems Architecture.
 
 ---
 
-## 🔗 Quick Links
+## Dash — The Resizes Product
 
-| Resource | Link | Description |
-|----------|------|-------------|
-| 🏠 **Dash Platform** | [Start deploying with Dash](https://dash.resiz.es) | Main platform home |
-| 📚 **Documentation** | [Explore the Docs site](https://docs.resiz.es) | Complete guides & tutorials |
-| 📝 **Blog & Insights** | [Read our Blog](https://blog.resiz.es) | Latest news & insights |
-|  **GitHub** | [Open to community collaboration](https://github.com/resizes) | Contribute to our projects |
-| 💬 **Discord** | [Connect with us!](https://discord.gg/kC25JjyyKD) | Join our community |
+**Dash** is Resizes' flagship product and is evolving into a full-stack platform where teams and developers can create, deploy, and manage everything in one place.
 
----
+Dash's new direction aims to make the cloud feel simple, connected, and consistent. Instead of jumping between tools or configuring everything from scratch, Dash allows you to:
 
-## 🌟 Join the Movement
+* Deploy frontends, backends, and databases together
+* Use built-in templates to get projects started faster
+* Manage everything from a unified dashboard
+* Maintain visibility and control with clear usage and resource metrics
 
-Resizes Dash is more than a deployment tool—it's reshaping developer workflows and infrastructure greenliness. Whether you're a developer, platform engineer, or DevOps enthusiast, we'd love your input—technical, strategic, or documentation-wise.
+This is not just an interface improvement.
+It is the foundation of a complete ecosystem built for speed, collaboration, and a better development experience.
 
-**Let's ship at the speed of light—together.** ⚡
+Dash is how Resizes materialises as a product for teams' day-to-day work.
 
 ---
 
-<div align="center">
+## Open Source & Public Repositories
 
-### 🌟 Star us on GitHub if you find this helpful! ⭐
+In addition to the platform, Resizes maintains and manages multiple public repositories focused on improving infrastructure, automation, platform, and workflows.
 
-[![GitHub stars](https://img.shields.io/github/stars/resizes?style=social)](https://github.com/resizes)
-[![GitHub followers](https://img.shields.io/github/followers/resizes?style=social)](https://github.com/resizes)
+Some examples:
 
-</div>
+* **Terraform modules** for secure integration between GitHub and AWS (OIDC)
+* Reusable **GitHub Actions and workflows** for clients and internal projects
+* **Project templates** for different stacks, useful for rapid testing and deployment in Dash
+* **Starters** such as Medusa for e-commerce and products
+* **Technical guides** such as Kubestronaut
+* **Public roadmap** for sharing direction and priorities
+
+These repositories are part of Resizes' focus on platform, automation, and continuous improvement of the technical ecosystem.
+
+GitHub: [https://github.com/resizes](https://github.com/resizes)
 
 ---
 
-*Last updated: September 2025*
+## Why Resizes
+
+Resizes is not just infrastructure. It is a platform layer that connects people, products, and systems.
+
+It enables teams to:
+
+* Move faster without sacrificing control
+* Reduce complexity without losing flexibility
+* Gain a true view of costs and resources
+* Scale with confidence
+* Build products without operational friction
+
+For growing companies, Resizes acts as the operating system for their technology.
+
+---
+
+## Quick Links
+
+| Resource        | Link                                                           | Description                    |
+| --------------- | -------------------------------------------------------------- | ------------------------------ |
+| Resizes Website | [https://resiz.es](https://resiz.es)                           | Main company site              |
+| Dash Platform   | [https://dash.resiz.es](https://dash.resiz.es)                 | Product platform               |
+| Documentation   | [https://docs.resiz.es](https://docs.resiz.es)                 | Guides & tutorials             |
+| Blog            | [https://blog.resiz.es](https://blog.resiz.es)                 | News & insights                |
+| GitHub          | [https://github.com/resizes](https://github.com/resizes)       | Open source & platform tooling |
+| Discord         | [https://discord.gg/kC25JjyyKD](https://discord.gg/kC25JjyyKD) | Community & support            |
+
+---
+
+## Contributing & Community
+
+Resizes keeps a significant part of its work open source. Contributions, technical feedback, and improvements to tooling, infrastructure, and platform are welcome.
+
+The focus is on building better tools for modern teams, improving the development experience, and simplifying the operation of complex systems.
+
+
