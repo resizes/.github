@@ -1,6 +1,6 @@
 # Resizes · Developer Platform & Cloud Orchestration
 
-**Resizes** is a technology platform that centralises and orchestrates all infrastructure and its critical components: applications, AI agents, APIs, databases, MCPs, and any essential part of the technology stack.
+**Resizes** is a platform that centralises and orchestrates all infrastructure and its critical components: applications, AI agents, APIs, databases, MCPs, and any essential part of the technology stack.
 
 It is not just another tool.
 Resizes is the place where everything is managed, deployed, and scaled, without the need to constantly switch between providers, consoles, scripts, and environments.
