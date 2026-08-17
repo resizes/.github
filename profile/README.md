@@ -38,9 +38,6 @@ We maintain public tooling for Platform Engineering and automation:
 | --- | --- |
 | [github-actions](https://github.com/resizes/github-actions) | Reusable GitHub Actions and workflows |
 | [platform-terraform-module-github-oidc-aws-role](https://github.com/resizes/platform-terraform-module-github-oidc-aws-role) | Terraform module for GitHub OIDC → AWS IAM |
-| [kubestronaut](https://github.com/resizes/kubestronaut) | Guide to becoming a Kubestronaut |
-| [monorepo-template](https://github.com/resizes/monorepo-template) | Production-ready monorepo starter |
-| [medusa-starter-default](https://github.com/resizes/medusa-starter-default) | Medusa e-commerce starter |
 | [blog](https://github.com/resizes/blog) | Resizes blog source |
 
 Contributions, feedback, and improvements are welcome — see [CONTRIBUTING.md](https://github.com/resizes/.github/blob/main/CONTRIBUTING.md).
