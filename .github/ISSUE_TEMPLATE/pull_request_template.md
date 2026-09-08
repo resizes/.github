@@ -16,4 +16,4 @@ Closes # (issue)
 
 ---
 
-Thank you for contributing to **Resizes · Dash** 💚
+Thank you for contributing to **Resizes** 💚
