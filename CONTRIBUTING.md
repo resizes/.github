@@ -1,33 +1,39 @@
-# Contributing to Resizes · Dash
+# Contributing to Resizes
 
-🎉 Thanks for your interest in contributing! We welcome improvements to **code, docs, tutorials, and community content**.  
+Thanks for your interest. We welcome improvements to public tooling, docs, and community content.
 
-## Ways to Contribute
+## What we build
 
-- 🐛 **Bug reports** — open an issue using the bug template.  
-- 💡 **Feature requests** — suggest improvements via the feature request template.  
-- 📝 **Docs & tutorials** — fix typos, expand guides, or add new walkthroughs.  
-- ⚡ **Examples** — share deployment examples for different languages and frameworks.  
+| Product | What it does |
+| --- | --- |
+| **[Resizes Agentic](https://resiz.es)** | Engineering agents for cloud ops — read-only by default, with human approval for proposed actions |
+| **[Resizes Platform](https://resiz.es/services)** | Managed Internal Developer Platforms on your cloud |
+| **[Resizes AI](https://resizes.ai)** | Business agents SaaS |
 
-## Getting Started
+Most product and customer repos are private. Public contribution surfaces today:
 
-1. Fork the repository you’d like to work on (e.g., `github-actions`, `blog`, etc.).  
-2. Create a new branch:
+- [`github-actions`](https://github.com/resizes/github-actions) — reusable GitHub Actions and workflows
+- [`platform-terraform-module-github-oidc-aws-role`](https://github.com/resizes/platform-terraform-module-github-oidc-aws-role) — Terraform module for GitHub OIDC → AWS IAM
+- [`blog`](https://github.com/resizes/blog) — [blog.resiz.es](https://blog.resiz.es)
+
+## Getting started
+
+1. Fork the repository you want to change.
+2. Create a focused branch:
    ```bash
-   git checkout -b feature/my-improvement
+   git checkout -b feat/my-improvement
    ```
-3. Make your changes and ensure tests/docs (if apply) are updated.
-4. Open a pull request using our template.
+3. Make the change. Update tests and docs when they apply.
+4. Open a pull request using the template.
 
-## Code Style
+## Code style
 
-- Keep PRs focused and small.
-- Write clear commit messages (Conventional Commits are encouraged).
-- Add or update documentation when introducing features.
+- Keep PRs small and focused.
+- Prefer [Conventional Commits](https://www.conventionalcommits.org/).
+- Add or update documentation when behaviour changes.
 
 ## Community
 
 - Be respectful and inclusive (see [Code of Conduct](./CODE_OF_CONDUCT.md)).
-- Join the conversation on [Discord](https://discord.gg/kC25JjyyKD).
-
-💚 Together we’re building a greener, faster developer platform.
+- Questions and discussion: [Discord](https://discord.gg/kC25JjyyKD).
+- Security reports: see [SECURITY.md](./SECURITY.md) — do not open a public issue.
